@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.test.cs.task.iml" filepath="$PROJECT_DIR$/.idea/modules/com.test.cs.task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.test.cs.task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.test.cs.task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.test.cs.task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.test.cs.task.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/cs.task.iml" filepath="$PROJECT_DIR$/cs.task.iml" />
     </modules>
   </component>
